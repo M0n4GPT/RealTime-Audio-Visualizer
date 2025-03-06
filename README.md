@@ -41,7 +41,7 @@ This will start real-time audio visualization using your system’s microphone.
 
 Below is an example of the RealTime-Audio-Visualizer in action:
 
-![Real-Time Audio Visualizer Running](https://url/demo.png)
+![Real-Time Audio Visualizer Running](https://github.com/M0n4GPT/RealTime-Audio-Visualizer/blob/main/img/demo.png)
 
 The visualization dynamically updates based on live audio input from your microphone.
 
